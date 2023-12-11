@@ -101,6 +101,7 @@ console.log("----------------------------");
 var formatter = new Intl.NumberFormat("en-US", {
   style: "currency",
   currency: "USD",
+  maximumFractionDigits: 0,
 });
 
 // The total number of months included in the dataset.
