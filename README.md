@@ -19,7 +19,7 @@ Note: I am currently on the Front End Web Developer course.
 
 Screenshot of Live Site/Console Application:
 
-![A screenshot of the live site deployed on Github pages.](images/screenshot.png)
+![A screenshot of the live site deployed on Github pages.](./screenshot.png)
 
 ## License
 
