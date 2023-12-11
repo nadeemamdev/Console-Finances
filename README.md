@@ -1,97 +1,26 @@
-# Unit 4 Challenge: Console Finances
+# edX Bootcamp - Module 4 Challenge
 
-## Overview
+## Description
 
-In this challenge, you'll be using the concepts you've learned to complete the required activity. This activity presents a real-world situation in which your newfound JavaScript skills will come in handy. You are tasked with creating code for analyzing the financial records of a company. You have been provided with a financial dataset in the `starter/index.js` file.
+I was tasked to use my newfound JavaScript skills to create a Console Finances application, which outputs the finances of a company. 
 
-## Instructions
+Note: I am currently on the Front End Web Developer course.
 
-1. Create a new GitHub repo called `Console-Finances`. Then, clone it to your computer.
+## Table of Contents
 
-2. Copy the starter files in your local git repository.
+- [Usage](#usage)
+- [License](#license)
 
-You have been given a dataset composed of arrays with two fields, Date and Profit/Losses.
+## Usage
 
-Your task is to write JavaScript code that analyzes the records to calculate each of the following:
+1. [Click this link to visit the site on Github pages](https://nadeemamdev.github.io/Console-Finances/)
 
-* The total number of months included in the dataset.
+2. Open the Console in your Web Browser to view the output. 
 
-* The net total amount of Profit/Losses over the entire period.
+Screenshot of Live Site/Console Application:
 
-* The average of the **changes** in Profit/Losses over the entire period.
-  * You will need to track what the total change in Profit/Losses are from month to month and then find the average.
-  * (`Total/(Number of months - 1)`)
+![A screenshot of the live site deployed on Github pages.](images/screenshot.png)
 
-* The greatest increase in Profit/Losses (date and amount) over the entire period.
+## License
 
-* The greatest decrease in Profit/Losses (date and amount) over the entire period.
-
-When you open your code in the browser your resulting analysis should look similar to the following:
-
-  ```text
-  Financial Analysis 
-  ----------------
-  Total Months: 86
-  Total: $38382578
-  Average Change: -2315.12
-  Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
-  Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
-  ```
-
-Your final code should print the analysis to the console.
-
-**Hints:**
-
-* You will need to do some research on your own for this project!
-
-* Remember, in order to combine strings and variables in the console you will need to use **concatenation**.
-
-* How do you only print to the nearest 100th in JavaScript?
-
-## Grading Requirements
-
-This homework is graded based on the following criteria:
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Repository Quality: 23%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for variable naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-### Application Quality: 5%
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
----
-
-## Copyright
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+This is a private project and therefore no License has been provided.
